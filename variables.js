@@ -20,7 +20,9 @@ const theUser = {
 };
 
 
+// DOESN'T WORK ------------------------------
 // theUser = {};
+
 
 theUser.name = 'Nizar';
 theUser.age++;
@@ -33,7 +35,7 @@ const fallingSpeed = 30;
 
 let name = "Ironhacker";
 
-if (true){
+if (true) {
   const name = "Ted";
   console.log("Name inside of if statement: " + name);
 }
